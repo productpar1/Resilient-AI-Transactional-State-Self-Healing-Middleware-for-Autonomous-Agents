@@ -1,8 +1,5 @@
 # Resilient AI: Transactional State & Self-Healing Middleware for Autonomous Agents
 
-[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
-[![Architecture: Spec v1.0](https://img.shields.io/badge/Architecture-Spec_v1.0-green.svg)](#)
-
 > **Architectural Specification & System Design for Enterprise-Grade Agentic Fault Tolerance.**
 
 Current LLM agent frameworks (LangGraph, CrewAI, AutoGen) excel at reasoning, but fail at **transaction management, state recovery, and idempotency**. When an agent crashes mid-execution, standard retries cause duplicate API side-effects, infinite hallucination loops, and severe token burn.

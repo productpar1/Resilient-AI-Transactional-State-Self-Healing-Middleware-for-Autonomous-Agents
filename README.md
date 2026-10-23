@@ -83,3 +83,11 @@ SLA Guarantees: 99.9% uptime without human babysitting.
 Zero Financial Risk: Guarantees against duplicate charges or corrupted DB records.
 
 Predictable Unit Economics: Hard circuit breakers preventing runaway token bill spikes.
+---
+
+## License & Intellectual Property
+
+This repository and its technical specifications are licensed under the **Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)**. 
+
+* **Prohibited:** Commercial implementation, production deployment, or redistribution for profit without an explicit agreement is strictly prohibited.
+* **Inquiries:** For commercial licensing or hiring inquiries, contact mgmtparker@gmail.com
